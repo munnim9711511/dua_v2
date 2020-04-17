@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.prayer.munnim "
+    id          = "com.dua.munnim "
     versionCode = "1" 
     version     = "1.0.0" >
-   <name>How to pray </name>
+   <name>Dua </name>
     <description>
-            an app for learning how to pray
+            an app for dua
     </description>
     <author href="https://munnim.org" email="munnim9711511@hotmail.com">
           abdul munnim
